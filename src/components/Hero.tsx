@@ -21,7 +21,7 @@ export default function Hero() {
               Mission
             </span>
             <p className="text-xl text-slate-700 leading-relaxed">
-              Full-stack Developer and Computer Science student with a focus on delivering scalable, performance-driven digital solutions. I specialize in translating intricate backend systems into polished, intuitive interfaces. My experience spans professional client projects and complex academic initiatives—including DBMS and LFR (Line Following Robotics) systems—enabling me to maintain a high standard of code quality while managing a demanding academic workload.
+              Computer Science student and Full-Stack Developer specializing in high-performance web applications and immersive digital experiences. With professional internship experience building enterprise systems at <strong>CodeProphet</strong> and <strong>Horizon TechX</strong>, I bridge the gap between robust backends and polished user interfaces. My work spans interactive 3D web platforms, multi-department desktop tools, and scalable database architectures using modern stacks like Next.js, TypeScript, JavaFX, and PostgreSQL.
             </p>
           </div>
 
